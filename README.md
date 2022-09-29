@@ -1,2 +1,2 @@
 # Python_GUI--FishBallCalculate-
-GUI
+GUI-FishBallCalculate
